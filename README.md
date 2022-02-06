@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nabil-Y
 - 👀 I’m interested in front and back end web development
-- 🌱 I’m currently learning React and APIs
+- 🌱 I’m currently learning React Hooks and Node
 - 📫 How to reach me: nabil.yassine.dev@gmail.com
 
 <!---
