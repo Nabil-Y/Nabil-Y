@@ -5,7 +5,7 @@
 
 - 📜 I'm currently in a bootcamp **to get a CS degree (Very soon...)**
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning more about **Next and TypeScript**
 
 - 📫 How to reach me **nabil.yassine.dev@gmail.com**
 
