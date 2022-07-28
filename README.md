@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nabil_io" target="blank"><img src="https://img.shields.io/twitter/follow/nabil_io?logo=twitter&style=for-the-badge" alt="nabil_io" /></a> </p>
 
-- 📜 I'm currently in a bootcamp **to get a CS degree (Very soon...)**
+- 📜 I got my CS degree. Now looking for a frontend dev position in Paris.
 
 - 🌱 I’m currently learning more about **Next and TypeScript**
 
