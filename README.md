@@ -5,9 +5,11 @@
 
 - 📜 I got my CS degree. Now looking for a frontend dev position in Paris.
 
-- 🌱 I’m currently learning more about **Next and TypeScript**
+- 🌱 I’m currently creating a budgeting micro-SaaS
 
 - 📫 How to reach me **nabil.yassine.dev@gmail.com**
+
+- 👨‍💻 Read my [blog](https://nabil-y.com/blog) or visit my [portfolio](https://nabil-y.com/projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
