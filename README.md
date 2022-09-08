@@ -5,7 +5,7 @@
 
 - 📜 I got my CS degree. Now looking for a frontend dev position in Paris.
 
-- 🌱 I’m currently creating a budgeting micro-SaaS
+- 🌱 I’m currently learning Java.
 
 - 📫 How to reach me **nabil.yassine.dev@gmail.com**
 
