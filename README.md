@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/nabil_io" target="blank"><img src="https://img.shields.io/twitter/follow/nabil_io?logo=twitter&style=for-the-badge" alt="nabil_io" /></a> </p>
 
-- 📜 I got my CS degree. Now looking for a frontend dev position in Paris.
-
-- 🌱 I’m currently learning Java.
+- 📜 Web dev from Paris.
 
 - 📫 How to reach me **nabil.yassine.dev@gmail.com**
 
-- 👨‍💻 Read my [blog](https://nabil-y.com/blog) or visit my [portfolio](https://nabil-y.com/projects)
+- 👨‍💻 Read my [blog](https://nabil-y.com/blog) or visit my [website](https://nabil-y.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
